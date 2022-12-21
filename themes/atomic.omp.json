@@ -26,7 +26,7 @@
           "properties": {
             "folder_icon": " \uf07b ",
             "home_icon": "\uf7dd",
-            "style": "folder"
+            "style": "full"
           },
           "style": "powerline",
           "template": " \uf07b\uf553{{ .Path }} ",
